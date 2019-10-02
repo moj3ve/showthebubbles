@@ -1,0 +1,13 @@
+Package: me.shymemoriees.showthebubbles
+Name: ShowTheBubbles
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Always show ChargingBubbles's bubbles. Even when you're not really charging.
+Maintainer: ShyMemoriees
+Author: ShyMemoriees
+Section: Tweaks
+SileoDepiction: https://repo.memor1es.me/depictions/stb/index.html
+Depiction: https://repo.memor1es.me/depictions/stb/index.html
+Icon: https://repo.memor1es.me/depictions/stb/assets/icon.png
+Version: 1.0.1-1+debug
+Installed-Size: 136
